@@ -1,7 +1,5 @@
-import * as text from "../src/data_types/text/generate"
+import * as  sfmock "../src/data_types/text/generate"
 
 export default {
-    text
-}
-
-import {main} from "./modules"
+    sfmock
+};
